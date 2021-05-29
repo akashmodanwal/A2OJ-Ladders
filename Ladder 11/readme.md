@@ -1,21 +1,21 @@
 # Ladder Name: 11 - Codeforces Rating < 1300
 
-# Description:
+## Description:
 For beginners, unrated users or users with Codeforces Rating < 1300.
 
-# Difficulty Level: 2
-ID	Problem Name	
-1	Young Physicist	
-2	Beautiful Matrix 
-3	Queue at the School	
-4	Borze	
-5	Beautiful Year
-6	Lights Out
-7	Word
-8	Word Capitalization	
-9	Nearly Lucky Number	
-10	Stones on the Table	
-11	Panoramix's Prediction	Codeforces	1
+### Difficulty Level: 2
+### ID	Problem Name	
+1.	Young Physicist	
+2.	Beautiful Matrix 
+3.	Queue at the School	
+4.	Borze	
+5.	Beautiful Year
+6.	Lights Out
+7.	Word
+8.	Word Capitalization	
+9.	Nearly Lucky Number	
+10.	Stones on the Table	
+11.	Panoramix's Prediction	Codeforces	1
 12	Ultra-Fast Mathematician	Codeforces	1
 13	Perfect Permutation	Codeforces	1
 14	Arrival of the General	Codeforces	1
