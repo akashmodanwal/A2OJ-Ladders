@@ -1,22 +1,26 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-void solve(string n){
-    int a=0;
-    for(int i=0;i<n.length();i++){
-        if(s[i]=='7'){
-            a++;
-        }
-        else if(s[i] == '4'){
-            a++;
+int main(){
+    unsigned long long n;
+    cin>>n;
+    int q=0;
+    while(n>0){
+        int a =n%10;
+        n=n/10;
+        if(a==7 || a==4){
+            q++;
         }
     }
+<<<<<<< HEAD
+=======
     
 }
+>>>>>>> 035d7317d05cb1721a0b3c6d27817e3d93b47ed6
 
-int main(){
-    string n;
-    cin>>n;
-    solve(n);
+    if(q==4 || q==7){
+        cout<<"YES";
+        }
+    else
+        cout<<"NO";
     return 0;
 }
