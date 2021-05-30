@@ -15,9 +15,9 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 8.	Word Capitalization	
 9.	Nearly Lucky Number	
 10.	Stones on the Table	
-11.	Panoramix's Prediction	Codeforces	1
-12	Ultra-Fast Mathematician	Codeforces	1
-13	Perfect Permutation	Codeforces	1
+11.	Panoramix's Prediction
+12.	Ultra-Fast Mathematician
+13.	Perfect Permutation	Codeforces	1
 14	Arrival of the General	Codeforces	1
 15	Drinks	Codeforces	1
 16	Insomnia cure	Codeforces	1
