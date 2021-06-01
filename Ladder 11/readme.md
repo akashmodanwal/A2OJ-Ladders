@@ -4,7 +4,7 @@
 For beginners, unrated users or users with Codeforces Rating < 1300.
 
 ### Difficulty Level: 2
-### ID	Problem Name	
+### Problem's Name	
 1.	Young Physicist	
 2.	Beautiful Matrix 
 3.	Queue at the School	
