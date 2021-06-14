@@ -24,7 +24,7 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 17.	Cupboards	
 18.	I_love_\%username\%	
 19.	Tram
-20.	Helpful Maths	Codeforces	1
+20.	Helpful Maths
 21.	Is your horseshoe on the other hoof?	Codeforces	1
 22.	Way Too Long Words	Codeforces	1
 23.	Boy or Girl	Codeforces	1
