@@ -32,7 +32,7 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 25.	Soft Drinking	
 26	HQ9+
 27.	Petya and Strings	
-28	Team	
+28.	Team	
 29.	Bit++	
 30.	Effective Approach	
 31.	Dima and Friends	Codeforces	2
