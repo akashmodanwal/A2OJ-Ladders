@@ -25,16 +25,16 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 18.	I_love_\%username\%	
 19.	Tram
 20.	Helpful Maths
-21.	Is your horseshoe on the other hoof?	Codeforces	1
-22.	Way Too Long Words	Codeforces	1
-23.	Boy or Girl	Codeforces	1
-24.	Amusing Joke	Codeforces	1
-25.	Soft Drinking	Codeforces	1
-26	HQ9+	Codeforces	1
-27.	Petya and Strings	Codeforces	1
-28	Team	Codeforces	1
-29.	Bit++	Codeforces	1
-30.	Effective Approach	Codeforces	2
+21.	Is your horseshoe on the other hoof?	
+22.	Way Too Long Words	
+23.	Boy or Girl	
+24.	Amusing Joke	
+25.	Soft Drinking	
+26	HQ9+
+27.	Petya and Strings	
+28	Team	
+29.	Bit++	
+30.	Effective Approach	
 31.	Dima and Friends	Codeforces	2
 32.	Jzzhu and Children	Codeforces	2
 33	Supercentral Point	Codeforces	2
