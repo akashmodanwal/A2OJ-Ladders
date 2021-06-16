@@ -35,7 +35,7 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 28.	Team	
 29.	Bit++	
 30.	Effective Approach	
-31.	Dima and Friends	Codeforces	2
+31.	Dima and Friends
 32.	Jzzhu and Children	Codeforces	2
 33	Supercentral Point	Codeforces	2
 34.	Petr and Book	Codeforces	2
