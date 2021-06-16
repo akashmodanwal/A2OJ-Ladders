@@ -30,7 +30,7 @@ For beginners, unrated users or users with Codeforces Rating < 1300.
 23.	Boy or Girl	
 24.	Amusing Joke	
 25.	Soft Drinking	
-26	HQ9+
+26.	HQ9+
 27.	Petya and Strings	
 28.	Team	
 29.	Bit++	
